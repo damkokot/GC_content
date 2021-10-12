@@ -26,10 +26,10 @@ python .\gc_content.py BA000007.3 --step=1000 --window=4000
     <div>
         <h4>GC_content plots</h4>
         <p>
-            <img src="demo/gc_cont.png" width="100%">
+            <img src="files/gc_cont.png" width="100%">
         </p>
         <p>
-            <img src="demo/gc_cont1.png" width="100%">
+            <img src="files/gc_cont1.png" width="100%">
         </p>
     </div>
 </body>
